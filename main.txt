@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Invite Dog join this team.
+=======
+Invite Cat join this team.
+>>>>>>> Cat: 1st uploading
