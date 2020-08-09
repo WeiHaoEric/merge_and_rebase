@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Invite Cat join this team.
+>>>>>>> 0e53c10613a5ccbd0302cdb5a7e48e6ce97b8f78
 Invite Dog join this team.
 =======
 Invite Cat join this team.
